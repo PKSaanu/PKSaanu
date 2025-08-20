@@ -1,4 +1,4 @@
-<div align="center" style="background:linear-gradient(135deg,#001f3f,#004080); padding:30px; border-radius:12px; color:white;">
+<div  style="background:linear-gradient(135deg,#001f3f,#004080); padding:30px; border-radius:12px; color:white;">
 
 # 💫 About Me:
 I'm Karuppaiyah Saanusan, and I work as a Full-stack Developer from Sri Lanka. I consider myself a strong team player, a fast learner, and a responsible individual with good communication skills. I'm adept at adapting quickly to new domains and bring strong analytical and problem-solving abilities to my work.
