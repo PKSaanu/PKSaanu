@@ -45,9 +45,6 @@ I’m always curious, continuously improving my craft, and exploring the latest 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PKSaanu&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PKSaanu&icon=4&color=0)](https://visitcount.itsvg.in)
 
