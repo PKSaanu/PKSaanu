@@ -1,5 +1,16 @@
 <div  style="background:linear-gradient(135deg,#001f3f,#004080); padding:30px; border-radius:12px; color:white;">
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=70&background=0F2027,203A43,2C5364&gradient=true&lines=Learn+to+Code+...;Code+to+Learn+..."
+    alt="Learn to Code ... Code to Learn ..."
+  />
+</p>
+
+---
+
+
+
 # 💫 About Me:
 Hi, I'm **Karuppaiyah Saanusan** 👋 — a passionate **Full-Stack Developer** from **Sri Lanka**.  
 
