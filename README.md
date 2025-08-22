@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=70&background=0F2027,203A43,2C5364&gradient=true&lines=Learn+to+Code+...;Code+to+Learn+..."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=900&color=auto&center=true&vCenter=true&width=900&height=70&background=0F2027,203A43,2C5364&gradient=true&lines=Learn+to+Code+...;Code+to+Learn+..."
     alt="Learn to Code ... Code to Learn ..."
   />
 </p>
@@ -11,7 +11,7 @@
 
 
 
-# 💫 About Me:
+# About Me:
 Hi, I'm **Karuppaiyah Saanusan** 👋 — a passionate **Full-Stack Developer** from **Sri Lanka**.  
 
 💡 I love turning ideas into scalable and efficient software solutions. With experience across both **frontend & backend**, I enjoy building modern, user-friendly applications while ensuring strong performance and maintainability.  
